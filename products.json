@@ -1,0 +1,2111 @@
+[
+  {
+    "id": "PC-004",
+    "page": 4,
+    "brand": "BOSS",
+    "name": "Referencia PC-004",
+    "price": 120000,
+    "image": "assets/webp/004.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-005",
+    "page": 5,
+    "brand": "BOSS",
+    "name": "Referencia PC-005",
+    "price": 120000,
+    "image": "assets/webp/005.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-006",
+    "page": 6,
+    "brand": "BOSS",
+    "name": "Referencia PC-006",
+    "price": 120000,
+    "image": "assets/webp/006.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-007",
+    "page": 7,
+    "brand": "BOSS",
+    "name": "Referencia PC-007",
+    "price": 120000,
+    "image": "assets/webp/007.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-008",
+    "page": 8,
+    "brand": "BOSS",
+    "name": "Referencia PC-008",
+    "price": 120000,
+    "image": "assets/webp/008.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-009",
+    "page": 9,
+    "brand": "BOSS",
+    "name": "Referencia PC-009",
+    "price": 120000,
+    "image": "assets/webp/009.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-010",
+    "page": 10,
+    "brand": "BOSS",
+    "name": "Referencia PC-010",
+    "price": 120000,
+    "image": "assets/webp/010.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-011",
+    "page": 11,
+    "brand": "BOSS",
+    "name": "Referencia PC-011",
+    "price": 120000,
+    "image": "assets/webp/011.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-012",
+    "page": 12,
+    "brand": "BOSS",
+    "name": "Referencia PC-012",
+    "price": 120000,
+    "image": "assets/webp/012.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-013",
+    "page": 13,
+    "brand": "BOSS",
+    "name": "Referencia PC-013",
+    "price": 120000,
+    "image": "assets/webp/013.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-014",
+    "page": 14,
+    "brand": "BOSS",
+    "name": "Referencia PC-014",
+    "price": 120000,
+    "image": "assets/webp/014.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-015",
+    "page": 15,
+    "brand": "BOSS",
+    "name": "Referencia PC-015",
+    "price": 120000,
+    "image": "assets/webp/015.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-016",
+    "page": 16,
+    "brand": "BOSS",
+    "name": "Referencia PC-016",
+    "price": 120000,
+    "image": "assets/webp/016.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-017",
+    "page": 17,
+    "brand": "BOSS",
+    "name": "Referencia PC-017",
+    "price": 120000,
+    "image": "assets/webp/017.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-018",
+    "page": 18,
+    "brand": "BOSS",
+    "name": "Referencia PC-018",
+    "price": 120000,
+    "image": "assets/webp/018.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-019",
+    "page": 19,
+    "brand": "BOSS",
+    "name": "Referencia PC-019",
+    "price": 120000,
+    "image": "assets/webp/019.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-020",
+    "page": 20,
+    "brand": "BOSS",
+    "name": "Referencia PC-020",
+    "price": 120000,
+    "image": "assets/webp/020.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-021",
+    "page": 21,
+    "brand": "BOSS",
+    "name": "Referencia PC-021",
+    "price": 120000,
+    "image": "assets/webp/021.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-022",
+    "page": 22,
+    "brand": "BOSS",
+    "name": "Referencia PC-022",
+    "price": 120000,
+    "image": "assets/webp/022.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-024",
+    "page": 24,
+    "brand": "HUGO",
+    "name": "Referencia PC-024",
+    "price": 120000,
+    "image": "assets/webp/024.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-025",
+    "page": 25,
+    "brand": "HUGO",
+    "name": "Referencia PC-025",
+    "price": 120000,
+    "image": "assets/webp/025.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-026",
+    "page": 26,
+    "brand": "HUGO",
+    "name": "Referencia PC-026",
+    "price": 120000,
+    "image": "assets/webp/026.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-027",
+    "page": 27,
+    "brand": "HUGO",
+    "name": "Referencia PC-027",
+    "price": 120000,
+    "image": "assets/webp/027.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-028",
+    "page": 28,
+    "brand": "HUGO",
+    "name": "Referencia PC-028",
+    "price": 120000,
+    "image": "assets/webp/028.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-029",
+    "page": 29,
+    "brand": "HUGO",
+    "name": "Referencia PC-029",
+    "price": 120000,
+    "image": "assets/webp/029.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-030",
+    "page": 30,
+    "brand": "HUGO",
+    "name": "Referencia PC-030",
+    "price": 120000,
+    "image": "assets/webp/030.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-031",
+    "page": 31,
+    "brand": "HUGO",
+    "name": "Referencia PC-031",
+    "price": 120000,
+    "image": "assets/webp/031.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-032",
+    "page": 32,
+    "brand": "HUGO",
+    "name": "Referencia PC-032",
+    "price": 120000,
+    "image": "assets/webp/032.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-033",
+    "page": 33,
+    "brand": "HUGO",
+    "name": "Referencia PC-033",
+    "price": 120000,
+    "image": "assets/webp/033.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-034",
+    "page": 34,
+    "brand": "HUGO",
+    "name": "Referencia PC-034",
+    "price": 120000,
+    "image": "assets/webp/034.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-035",
+    "page": 35,
+    "brand": "HUGO",
+    "name": "Referencia PC-035",
+    "price": 120000,
+    "image": "assets/webp/035.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-036",
+    "page": 36,
+    "brand": "HUGO",
+    "name": "Referencia PC-036",
+    "price": 120000,
+    "image": "assets/webp/036.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-037",
+    "page": 37,
+    "brand": "HUGO",
+    "name": "Referencia PC-037",
+    "price": 120000,
+    "image": "assets/webp/037.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-038",
+    "page": 38,
+    "brand": "HUGO",
+    "name": "Referencia PC-038",
+    "price": 120000,
+    "image": "assets/webp/038.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-039",
+    "page": 39,
+    "brand": "HUGO",
+    "name": "Referencia PC-039",
+    "price": 120000,
+    "image": "assets/webp/039.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-040",
+    "page": 40,
+    "brand": "HUGO",
+    "name": "Referencia PC-040",
+    "price": 120000,
+    "image": "assets/webp/040.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-042",
+    "page": 42,
+    "brand": "KARL LAGERFELD",
+    "name": "Referencia PC-042",
+    "price": 120000,
+    "image": "assets/webp/042.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-043",
+    "page": 43,
+    "brand": "KARL LAGERFELD",
+    "name": "Referencia PC-043",
+    "price": 120000,
+    "image": "assets/webp/043.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-044",
+    "page": 44,
+    "brand": "KARL LAGERFELD",
+    "name": "Referencia PC-044",
+    "price": 120000,
+    "image": "assets/webp/044.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-045",
+    "page": 45,
+    "brand": "KARL LAGERFELD",
+    "name": "Referencia PC-045",
+    "price": 120000,
+    "image": "assets/webp/045.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-046",
+    "page": 46,
+    "brand": "KARL LAGERFELD",
+    "name": "Referencia PC-046",
+    "price": 120000,
+    "image": "assets/webp/046.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-047",
+    "page": 47,
+    "brand": "KARL LAGERFELD",
+    "name": "Referencia PC-047",
+    "price": 120000,
+    "image": "assets/webp/047.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-048",
+    "page": 48,
+    "brand": "KARL LAGERFELD",
+    "name": "Referencia PC-048",
+    "price": 120000,
+    "image": "assets/webp/048.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-049",
+    "page": 49,
+    "brand": "KARL LAGERFELD",
+    "name": "Referencia PC-049",
+    "price": 120000,
+    "image": "assets/webp/049.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-050",
+    "page": 50,
+    "brand": "KARL LAGERFELD",
+    "name": "Referencia PC-050",
+    "price": 120000,
+    "image": "assets/webp/050.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-051",
+    "page": 51,
+    "brand": "KARL LAGERFELD",
+    "name": "Referencia PC-051",
+    "price": 120000,
+    "image": "assets/webp/051.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-052",
+    "page": 52,
+    "brand": "KARL LAGERFELD",
+    "name": "Referencia PC-052",
+    "price": 120000,
+    "image": "assets/webp/052.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-053",
+    "page": 53,
+    "brand": "KARL LAGERFELD",
+    "name": "Referencia PC-053",
+    "price": 120000,
+    "image": "assets/webp/053.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-055",
+    "page": 55,
+    "brand": "MOSCHINO",
+    "name": "Referencia PC-055",
+    "price": 120000,
+    "image": "assets/webp/055.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-056",
+    "page": 56,
+    "brand": "MOSCHINO",
+    "name": "Referencia PC-056",
+    "price": 120000,
+    "image": "assets/webp/056.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-057",
+    "page": 57,
+    "brand": "MOSCHINO",
+    "name": "Referencia PC-057",
+    "price": 120000,
+    "image": "assets/webp/057.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-058",
+    "page": 58,
+    "brand": "MOSCHINO",
+    "name": "Referencia PC-058",
+    "price": 120000,
+    "image": "assets/webp/058.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-059",
+    "page": 59,
+    "brand": "MOSCHINO",
+    "name": "Referencia PC-059",
+    "price": 120000,
+    "image": "assets/webp/059.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-060",
+    "page": 60,
+    "brand": "MOSCHINO",
+    "name": "Referencia PC-060",
+    "price": 120000,
+    "image": "assets/webp/060.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-061",
+    "page": 61,
+    "brand": "MOSCHINO",
+    "name": "Referencia PC-061",
+    "price": 120000,
+    "image": "assets/webp/061.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-063",
+    "page": 63,
+    "brand": "PSYCHO BUNNY",
+    "name": "Referencia PC-063",
+    "price": 120000,
+    "image": "assets/webp/063.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-064",
+    "page": 64,
+    "brand": "PSYCHO BUNNY",
+    "name": "Referencia PC-064",
+    "price": 120000,
+    "image": "assets/webp/064.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-065",
+    "page": 65,
+    "brand": "PSYCHO BUNNY",
+    "name": "Referencia PC-065",
+    "price": 120000,
+    "image": "assets/webp/065.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-066",
+    "page": 66,
+    "brand": "PSYCHO BUNNY",
+    "name": "Referencia PC-066",
+    "price": 120000,
+    "image": "assets/webp/066.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-067",
+    "page": 67,
+    "brand": "PSYCHO BUNNY",
+    "name": "Referencia PC-067",
+    "price": 120000,
+    "image": "assets/webp/067.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-068",
+    "page": 68,
+    "brand": "PSYCHO BUNNY",
+    "name": "Referencia PC-068",
+    "price": 120000,
+    "image": "assets/webp/068.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-069",
+    "page": 69,
+    "brand": "PSYCHO BUNNY",
+    "name": "Referencia PC-069",
+    "price": 120000,
+    "image": "assets/webp/069.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-070",
+    "page": 70,
+    "brand": "PSYCHO BUNNY",
+    "name": "Referencia PC-070",
+    "price": 120000,
+    "image": "assets/webp/070.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-071",
+    "page": 71,
+    "brand": "PSYCHO BUNNY",
+    "name": "Referencia PC-071",
+    "price": 120000,
+    "image": "assets/webp/071.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-072",
+    "page": 72,
+    "brand": "PSYCHO BUNNY",
+    "name": "Referencia PC-072",
+    "price": 120000,
+    "image": "assets/webp/072.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-074",
+    "page": 74,
+    "brand": "PRADA",
+    "name": "Referencia PC-074",
+    "price": 120000,
+    "image": "assets/webp/074.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-075",
+    "page": 75,
+    "brand": "PRADA",
+    "name": "Referencia PC-075",
+    "price": 120000,
+    "image": "assets/webp/075.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-076",
+    "page": 76,
+    "brand": "PRADA",
+    "name": "Referencia PC-076",
+    "price": 120000,
+    "image": "assets/webp/076.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-077",
+    "page": 77,
+    "brand": "PRADA",
+    "name": "Referencia PC-077",
+    "price": 120000,
+    "image": "assets/webp/077.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-078",
+    "page": 78,
+    "brand": "PRADA",
+    "name": "Referencia PC-078",
+    "price": 120000,
+    "image": "assets/webp/078.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-080",
+    "page": 80,
+    "brand": "COACH",
+    "name": "Referencia PC-080",
+    "price": 120000,
+    "image": "assets/webp/080.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-081",
+    "page": 81,
+    "brand": "COACH",
+    "name": "Referencia PC-081",
+    "price": 120000,
+    "image": "assets/webp/081.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-082",
+    "page": 82,
+    "brand": "COACH",
+    "name": "Referencia PC-082",
+    "price": 120000,
+    "image": "assets/webp/082.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-083",
+    "page": 83,
+    "brand": "COACH",
+    "name": "Referencia PC-083",
+    "price": 120000,
+    "image": "assets/webp/083.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-085",
+    "page": 85,
+    "brand": "DOLCE & GABBANA",
+    "name": "Referencia PC-085",
+    "price": 120000,
+    "image": "assets/webp/085.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-086",
+    "page": 86,
+    "brand": "DOLCE & GABBANA",
+    "name": "Referencia PC-086",
+    "price": 120000,
+    "image": "assets/webp/086.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-087",
+    "page": 87,
+    "brand": "DOLCE & GABBANA",
+    "name": "Referencia PC-087",
+    "price": 120000,
+    "image": "assets/webp/087.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-088",
+    "page": 88,
+    "brand": "DOLCE & GABBANA",
+    "name": "Referencia PC-088",
+    "price": 120000,
+    "image": "assets/webp/088.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-089",
+    "page": 89,
+    "brand": "DOLCE & GABBANA",
+    "name": "Referencia PC-089",
+    "price": 120000,
+    "image": "assets/webp/089.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-090",
+    "page": 90,
+    "brand": "DOLCE & GABBANA",
+    "name": "Referencia PC-090",
+    "price": 120000,
+    "image": "assets/webp/090.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-091",
+    "page": 91,
+    "brand": "DOLCE & GABBANA",
+    "name": "Referencia PC-091",
+    "price": 120000,
+    "image": "assets/webp/091.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-092",
+    "page": 92,
+    "brand": "DOLCE & GABBANA",
+    "name": "Referencia PC-092",
+    "price": 120000,
+    "image": "assets/webp/092.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-094",
+    "page": 94,
+    "brand": "ALEXANDER MCQUEEN",
+    "name": "Referencia PC-094",
+    "price": 120000,
+    "image": "assets/webp/094.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-095",
+    "page": 95,
+    "brand": "ALEXANDER MCQUEEN",
+    "name": "Referencia PC-095",
+    "price": 120000,
+    "image": "assets/webp/095.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-096",
+    "page": 96,
+    "brand": "ALEXANDER MCQUEEN",
+    "name": "Referencia PC-096",
+    "price": 120000,
+    "image": "assets/webp/096.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-097",
+    "page": 97,
+    "brand": "ALEXANDER MCQUEEN",
+    "name": "Referencia PC-097",
+    "price": 120000,
+    "image": "assets/webp/097.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-098",
+    "page": 98,
+    "brand": "ALEXANDER MCQUEEN",
+    "name": "Referencia PC-098",
+    "price": 120000,
+    "image": "assets/webp/098.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-100",
+    "page": 100,
+    "brand": "ERMENEGILDO ZEGNA",
+    "name": "Referencia PC-100",
+    "price": 120000,
+    "image": "assets/webp/100.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-101",
+    "page": 101,
+    "brand": "ERMENEGILDO ZEGNA",
+    "name": "Referencia PC-101",
+    "price": 120000,
+    "image": "assets/webp/101.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-102",
+    "page": 102,
+    "brand": "ERMENEGILDO ZEGNA",
+    "name": "Referencia PC-102",
+    "price": 120000,
+    "image": "assets/webp/102.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-103",
+    "page": 103,
+    "brand": "ERMENEGILDO ZEGNA",
+    "name": "Referencia PC-103",
+    "price": 120000,
+    "image": "assets/webp/103.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-104",
+    "page": 104,
+    "brand": "ERMENEGILDO ZEGNA",
+    "name": "Referencia PC-104",
+    "price": 120000,
+    "image": "assets/webp/104.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-106",
+    "page": 106,
+    "brand": "MONASTERY",
+    "name": "Referencia PC-106",
+    "price": 120000,
+    "image": "assets/webp/106.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-107",
+    "page": 107,
+    "brand": "MONASTERY",
+    "name": "Referencia PC-107",
+    "price": 120000,
+    "image": "assets/webp/107.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-108",
+    "page": 108,
+    "brand": "MONASTERY",
+    "name": "Referencia PC-108",
+    "price": 120000,
+    "image": "assets/webp/108.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-109",
+    "page": 109,
+    "brand": "MONASTERY",
+    "name": "Referencia PC-109",
+    "price": 120000,
+    "image": "assets/webp/109.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-110",
+    "page": 110,
+    "brand": "MONASTERY",
+    "name": "Referencia PC-110",
+    "price": 120000,
+    "image": "assets/webp/110.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-111",
+    "page": 111,
+    "brand": "MONASTERY",
+    "name": "Referencia PC-111",
+    "price": 120000,
+    "image": "assets/webp/111.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-112",
+    "page": 112,
+    "brand": "MONASTERY",
+    "name": "Referencia PC-112",
+    "price": 120000,
+    "image": "assets/webp/112.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-113",
+    "page": 113,
+    "brand": "MONASTERY",
+    "name": "Referencia PC-113",
+    "price": 120000,
+    "image": "assets/webp/113.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-114",
+    "page": 114,
+    "brand": "MONASTERY",
+    "name": "Referencia PC-114",
+    "price": 120000,
+    "image": "assets/webp/114.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-116",
+    "page": 116,
+    "brand": "Y/OUT",
+    "name": "Referencia PC-116",
+    "price": 120000,
+    "image": "assets/webp/116.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-117",
+    "page": 117,
+    "brand": "Y/OUT",
+    "name": "Referencia PC-117",
+    "price": 120000,
+    "image": "assets/webp/117.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-118",
+    "page": 118,
+    "brand": "Y/OUT",
+    "name": "Referencia PC-118",
+    "price": 120000,
+    "image": "assets/webp/118.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-119",
+    "page": 119,
+    "brand": "Y/OUT",
+    "name": "Referencia PC-119",
+    "price": 120000,
+    "image": "assets/webp/119.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-120",
+    "page": 120,
+    "brand": "Y/OUT",
+    "name": "Referencia PC-120",
+    "price": 120000,
+    "image": "assets/webp/120.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-121",
+    "page": 121,
+    "brand": "Y/OUT",
+    "name": "Referencia PC-121",
+    "price": 120000,
+    "image": "assets/webp/121.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-122",
+    "page": 122,
+    "brand": "Y/OUT",
+    "name": "Referencia PC-122",
+    "price": 120000,
+    "image": "assets/webp/122.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-123",
+    "page": 123,
+    "brand": "Y/OUT",
+    "name": "Referencia PC-123",
+    "price": 120000,
+    "image": "assets/webp/123.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-124",
+    "page": 124,
+    "brand": "Y/OUT",
+    "name": "Referencia PC-124",
+    "price": 120000,
+    "image": "assets/webp/124.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  },
+  {
+    "id": "PC-125",
+    "page": 125,
+    "brand": "Y/OUT",
+    "name": "Referencia PC-125",
+    "price": 120000,
+    "image": "assets/webp/125.webp",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco"
+    ],
+    "limited": true
+  }
+]
